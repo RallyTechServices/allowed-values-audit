@@ -15,3 +15,8 @@
     margin-right: 5px;
     cursor: pointer;
 }
+
+.ts-page-label {
+    font-weight: bold;
+    font-size: medium;
+}
